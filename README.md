@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **lewisombaka@gmail.com**
 
-- ⚡ Fun fact: **My mom tells me I'm funny but I don't think so**
+- ⚡ Hobby: **Playing Chess and Video Games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
