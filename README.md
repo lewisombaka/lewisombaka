@@ -11,16 +11,15 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **lewisombaka@gmail.com**
+- 📫 How to reach me: **lewisombaka@gmail.com**
 
-- ⚡ Fun fact **My mom tells me I'm funny but I don't think so**
+- ⚡ Fun fact: **My mom tells me I'm funny but I don't think so**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://tiktok.com/@lewisombaka" target="blank"><img align="center" src="https://meta-q.cdn.bubble.io/f1589367036774x648000883988402200/tiktok-icon-black-1.svg" alt="lewisombaka" height="30" width="40" /></a>
 <a href="https://twitter.com/lewisombaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lewisombaka" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lewisombaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lewisombaka" height="30" width="40" /></a>
-<a href="https://instagram.com/lewisombaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lewisombaka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
