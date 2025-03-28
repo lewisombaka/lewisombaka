@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Software Development at BYU-I**
 
-- 👨‍💻 All of my projects are available at [https://lewisombaka.github.io/wdd131/project/index.html](https://lewisombaka.github.io/wdd131/project/index.html)
+- 👨‍💻 Some of my mini projects through the course are here [https://lewisombaka.github.io/wdd131/project/index.html](https://lewisombaka.github.io/wdd131/project/index.html)
 
 - 💬 Ask me about **Python**
 
